@@ -1,0 +1,4 @@
+buy wave "C:\Users\Eugene\Documents\Embarcadero\Studio\Projects\Applications\64 bit\Try\Try1\Resources\buy.wav"
+connect wave "C:\Users\Eugene\Documents\Embarcadero\Studio\Projects\Applications\64 bit\Try\Try1\Resources\connect.wav"
+disconnect wave "C:\Users\Eugene\Documents\Embarcadero\Studio\Projects\Applications\64 bit\Try\Try1\Resources\disconnect.wav"
+sell wave "C:\Users\Eugene\Documents\Embarcadero\Studio\Projects\Applications\64 bit\Try\Try1\Resources\sell.wav"

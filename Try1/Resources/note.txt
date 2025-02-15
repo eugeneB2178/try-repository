@@ -1,0 +1,1 @@
+brcc32.exe sounds.rc - получаем RES файл
