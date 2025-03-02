@@ -344,7 +344,7 @@ begin
 end;
 procedure TForm1.FormDestroy(Sender: TObject);
 begin
- DeleteCriticalSection(GazpCriticalSection)
+ DeleteCriticalSection(GazpCriticalSection);;;{Oh, YES}
 end;
 
 {tempstr1:= 'C:\masm32\Applications\mytest.log';
